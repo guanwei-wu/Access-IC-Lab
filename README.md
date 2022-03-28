@@ -14,7 +14,10 @@ Final
 ## 2022 Spring
 Mid
 ---
-* DNN-gating (Including PG & CG) Architecture
+* dnn-gating (Including PG & CG) Architecture
 * Realizing PG on Weights
 * Clamping & Quantizing on Weights
 * Realizing PG on Weights under CIM-based Array-partitioned Architecture
+## References
+* [DNN+NeuroSim V1.3](https://github.com/neurosim/DNN_NeuroSim_V1.3)
+* [dnn-gating](https://github.com/cornell-zhang/dnn-gating)
